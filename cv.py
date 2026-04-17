@@ -43,9 +43,9 @@ cv.write ("UNCHK")
 
 cv.title ("COMPETENCES")
 cv.markdown("""
-- Microsofte office
--Cartograp Topographie 
--Planification
+* Microsofte office
+*Cartograp Topographie 
+*Planification
 -Déssin architect
 -Collecte données") 
 -Base de données spatiales
