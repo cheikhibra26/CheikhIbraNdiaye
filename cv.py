@@ -43,30 +43,28 @@ cv.write ("UNCHK")
 
 cv.title ("COMPETENCES")
 cv.markdown("""
-* Microsofte office
-*Cartograp Topographie 
-*Planification
--Déssin architect
+- Microsofte office
+-Cartograp Topographie 
+-Planification
+-Déssin Plan:
+("Auto-cad")
 -Collecte données") 
 -Base de données spatiales
 -Aménagement du Territoire
--Planification du Territoire
--Diagnostique Territorial
+-Planification du Territoire:
+       ("Diagnostique Spatiale")
 -Essaie Laboratoire Gétechnique
--Carte visite,invitation,flyers
+-Infographie:
+("Carte visite,invitation,flyers")
 -Numerisation 
--Programmation
--Anacondant
--Python
--Jupterlab 
--streamlit
+-Programmation("Anacondant Python Jupterlab streamlit
 """)
 with cv.sidebar:
     cv.title("CHEIKH IBRA NDIAYE")             
-    cv.write( "Ingénieur Aménagiste/Technicien en Géomatique")  
+    cv.write("Ingénieur Aménagiste/Technicien en Géomatique")  
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
     cv.write("Adresse:Dakar/Sénégal")
-    cv.write( "Situation Matrimonial:Célibataire sans enfant")
+    cv.write("Situation Matrimonial:Célibataire sans enfant")
 
 
 
