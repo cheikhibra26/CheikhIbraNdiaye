@@ -42,24 +42,25 @@ cv.write (" Attestation du Projet de Formation sur la Valorisation des Ressource
 cv.write ("UNCHK")
 
 cv.title ("COMPETENCES")
-cv.write(" Microsofte office")
-cv.write("Cartograp Topographie ")
-cv.write("Planification")
-cv.write("Déssin architect")
-cv.write("Collecte données") 
-cv.write("Base de données spatiales") 
-cv.write("Aménagement du Territoire")
-cv.write("Planification du Territoire")
-cv.write("Diagnostique Territorial")
-cv.write ("Essaie Laboratoire Gétechnique")
-cv.write("Carte visite,invitation,flyers")
-cv.write("Numerisation") 
-cv.write(" Programmation:
-         " Anacondant
-         "Python
-         "Jupterlab 
-         "streamlit
-            ")
+cv.markdown("""
+- Microsofte office
+-Cartograp Topographie 
+-Planification
+-Déssin architect
+-Collecte données") 
+-Base de données spatiales
+-Aménagement du Territoire
+-Planification du Territoire
+-Diagnostique Territorial
+-Essaie Laboratoire Gétechnique
+-Carte visite,invitation,flyers
+-Numerisation 
+-Programmation
+-Anacondant
+-Python
+-Jupterlab 
+-streamlit
+""")
 with cv.sidebar:
     cv.title("CHEIKH IBRA NDIAYE")             
     cv.write( "Ingénieur Aménagiste/Technicien en Géomatique")  
