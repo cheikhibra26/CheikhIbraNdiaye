@@ -5,7 +5,7 @@ cv .set_page_config(page_title="cv - CHEIKH IBRA NDIAYE", page_icon="photo.pjg",
 cv.title("CHEIKH IBRA NDIAYE")
 cv. write ("Ingénieur en  Aménagemnagement et gestionnaire urbaine en dote dune compétence de planification et aménagement urbaine du territoire  .Expert, Téchnicien superieur  en géomatique avec la maitrise des outils dinformation géographie (SIG),cartographie,analyse des données spatial ,dessin architecture ( plan dhabitation ,commercial) et programmation, base donnée.Télédection comtrole drone,Topographe. Je suis certifié sur en collect de données quantitative au niveau de lANSD en plus jai aqui les compétences en labaratoir géotechnique  ")
 
-cv.title("Parcour")
+cv.title("Parcours")
 
 cv.write("Master 2 en Aménagement et Gestion Urbaine en Afrique à ľuniversité Cheikh Anta Diop de Dakar")
 cv. write ("Université  Cheikh Anta Diop de Dakar ")
