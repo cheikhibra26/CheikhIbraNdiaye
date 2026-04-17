@@ -54,7 +54,12 @@ cv.write("Diagnostique Territorial")
 cv.write ("Essaie Laboratoire Gétechnique")
 cv.write("Carte visite,invitation,flyers")
 cv.write("Numerisation") 
-cv.write("Anacondant,Python,Jupterlab streamlit")
+cv.write(" Programmation:
+         " Anacondant
+         "Python
+         "Jupterlab 
+         "streamlit
+            ")
 with cv.sidebar:
     cv.title("CHEIKH IBRA NDIAYE")             
     cv.write( "Ingénieur Aménagiste/Technicien en Géomatique")  
