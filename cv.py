@@ -11,7 +11,7 @@ cv.write("Master 2 en Aménagement et Gestion Urbaine en Afrique à ľuniversit�
 cv. write ("Université  Cheikh Anta Diop de Dakar ")
 cv.write ("Année:2025/2026")
 cv.write(" Premier Année-BTS Geomatique  ")
-cv. write ("Centrte dentrepreneuriat et de Developpement Technique ")
+cv. write ("Centrte Dentrepreneuriat et de Developpement Technique ")
 cv.write ("Annee 2025/2026")
 cv.write("Licence en GouvernanceTerritoriale et Developpement Local Option en Aménagement du Territoire et Développement Local ")
 cv. write ("Universite  Cheikh Anta Diop de Dakar (UCAD) / Institut de la Gouvernance Territorial et Développement Local (IGT)")
@@ -59,7 +59,6 @@ with cv.sidebar:
     cv.title("CHEIKH IBRA NDIAYE")             
     cv.write( "Ingénieur Aménagiste/Technicien en Géomatique")  
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
-    cv.write ("Téléphone:784793519")
     cv.write("Adresse:Dakar/Sénégal")
     cv.write( "Situation Matrimonial:Célibataire sans enfant")
 
