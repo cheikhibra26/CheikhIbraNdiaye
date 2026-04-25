@@ -44,20 +44,21 @@ cv.write ("UNCHK")
 cv.title ("COMPETENCES")
 cv.markdown("""
 - Microsofte office
--Cartograp Topographie 
--Planification
--Déssin Plan:
+- Cartograp Topographie 
+- Planification
+- Déssin Plan:
     *Auto-cad
--Collecte données
--Base de données spatiales
--Aménagement du Territoire
--Planification du Territoire:
-       ("Diagnostique Spatiale")
--Essaie Laboratoire Gétechnique
--Infographie:
-("Carte visite,invitation,flyers")
--Numerisation 
--Programmation("Anacondant Python Jupterlab streamlit
+- Collecte données
+- Base de données spatiales
+- Aménagement du Territoire
+- Planification du Territoire
+- Diagnostique Spatiale
+- Essaie Laboratoire Gétechnique
+- Infographie:("
+    Carte visite,invitation,flyers
+    ")
+- Numerisation 
+- Programmation("Anacondant Python Jupterlab streamlit
 """)
 with cv.sidebar:
     cv.title("CHEIKH IBRA NDIAYE")             
