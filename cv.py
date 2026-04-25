@@ -47,8 +47,8 @@ cv.markdown("""
 -Cartograp Topographie 
 -Planification
 -Déssin Plan:
-("Auto-cad")
--Collecte données") 
+    *Auto-cad
+-Collecte données
 -Base de données spatiales
 -Aménagement du Territoire
 -Planification du Territoire:
