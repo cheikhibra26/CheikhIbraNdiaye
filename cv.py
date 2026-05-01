@@ -46,24 +46,24 @@ with cv.sidebar:
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
     cv.write("Adresse:Dakar/Sénégal")
     cv.write("Situation Matrimonial:Célibataire sans enfant")
-cv.title ("COMPETENCES")
-cv.markdown("""
-- Microsofte office:("Word,Exel,Power Point")
-- Cartographie 
--Topographie 
-- Planification Territoriale 
-- Dessin Plan Architecture
-- Collécte données:("Quantitative,Qualitative")
-- Base de données:
-- Aménagement du Territoire
-- Diagnostique Spatiale,Projection spatiale
-- Essaie en  Laboratoire Géotechnique
-- Infographie:("
-    Carte visite,invitation,flyers
-    ")
-- Numérisation 
-- Programmation("Anacondant Python Jupterlab streamlit
-""")
+    cv.title ("COMPETENCES")
+    cv.markdown("""
+    - Microsofte office:("Word,Exel,Power Point")
+    - Cartographie 
+    -Topographie 
+    - Planification Territoriale 
+    - Dessin Plan Architecture
+    - Collécte données:("Quantitative,Qualitative")
+    - Base de données:
+    - Aménagement du Territoire
+    - Diagnostique Spatiale,Projection spatiale
+    - Essaie en  Laboratoire Géotechnique
+    - Infographie:("
+     Carte visite,invitation,flyers
+        ")
+    - Numérisation 
+    - Programmation("Anacondant Python Jupterlab streamlit
+    """)
 
 
 
