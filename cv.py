@@ -10,11 +10,8 @@ cv.title("Parcours")
 cv.write("Master 2 en Aménagement et Gestion Urbaine en Afrique")
 cv. write ("Université  Cheikh Anta Diop de Dakar ")
 cv.write ("Année:2026")
-cv.write("Licence en Gouvernance Térritoriale et Développement Local Option:
-         Aménagement du Territoire et Développement Local 
-         ")
-cv. write ("Université  Cheikh Anta Diop de Dakar:
-         Institut de la Gouvernance Territorial et du  Développement Local ")
+cv.write("Licence en Gouvernance Térritoriale et Développement Local Option:Aménagement du Territoire et Développement Local ")
+cv. write ("Université  Cheikh Anta Diop de Dakar:Institut de la Gouvernance Territorial et du  Développement Local ")
 cv.write ("Année 2024")
 cv.write("Brévet Téchnique Supérieure en  Géomatique  ")
 cv. write ("Centrte D'entrepreneuriat et de Développement Téchnique"("CEDT":"Le G15") ")
