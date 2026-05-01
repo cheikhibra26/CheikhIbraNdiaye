@@ -14,16 +14,16 @@ cv.write("Licence en Gouvernance Térritoriale et Développement Local Option:Am
 cv. write ("Université  Cheikh Anta Diop de Dakar:Institut de la Gouvernance Territorial et du  Développement Local ")
 cv.write ("Année 2024")
 cv.write("Brévet Téchnique Supérieure en  Géomatique  ")
-cv. write ("Centrte D'entrepreneuriat et de Développement Téchnique"("CEDT":"Le G15") ")
+cv. write ("Centrte D'entrepreneuriat et de Développement Téchnique CEDT Le G15 ")
 cv.write ("Année 2027)
 cv.write("Baccalauriat en Science Humaine et Social ")
-cv. write ("Université Cheikh Anta Diop de Dakar (UCAD)")
+cv. write ("Université Cheikh Anta Diop de Dakar ")
 cv.write ("Année:2020")
 
 cv.title ("Certification")
 
 cv.write(" Attestation en Laboratoir Géotechnique ")
-cv. write ("Centre de Formation Professionnel des Travaux Public ("CFPT")
+cv. write ("Centre de Formation Professionnel des Travaux Public ")
 cv.write("Attestation en Téchnologie Immersive VR/AR/MR ")
 cv. write ("CURI")
 
