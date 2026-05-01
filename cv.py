@@ -40,6 +40,12 @@ cv.write (" FORCE-N")
 cv.write (" Attéstation du Projet de Formation sur la Valorisation des Ressources et Innovation Exploitation Economique du Sénégal ") 
 cv.write ("UNCHK")
 
+with cv.sidebar:
+    cv.title("CHEIKH IBRA NDIAYE")             
+    cv.write("Ingénieur Aménagiste/Téchnicien en Géomatique")  
+    cv.write("Email:wwwcheikhibrandiaye@gmail.com")
+    cv.write("Adresse:Dakar/Sénégal")
+    cv.write("Situation Matrimonial:Célibataire sans enfant")
 cv.title ("COMPETENCES")
 cv.markdown("""
 - Microsofte office:("Word,Exel,Power Point")
@@ -58,13 +64,6 @@ cv.markdown("""
 - Numérisation 
 - Programmation("Anacondant Python Jupterlab streamlit
 """)
-with cv.sidebar:
-    cv.title("CHEIKH IBRA NDIAYE")             
-    cv.write("Ingénieur Aménagiste/Téchnicien en Géomatique")  
-    cv.write("Email:wwwcheikhibrandiaye@gmail.com")
-    cv.write("Adresse:Dakar/Sénégal")
-    cv.write("Situation Matrimonial:Célibataire sans enfant")
-
 
 
 
