@@ -41,7 +41,8 @@ cv.write (" Attéstation du Projet de Formation sur la Valorisation des Ressourc
 cv.write ("UNCHK")
 
 with cv.sidebar:
-    cv.title("*CHEIKH IBRA NDIAYE*")             
+    cv.title("CHEIKH IBRA NDIAYE")   
+    
     cv.write("Ingénieur Aménagiste/Téchnicien en Géomatique")  
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
     cv.write("Adresse:Dakar/Sénégal")
@@ -49,19 +50,30 @@ with cv.sidebar:
     cv.title ("COMPETENCES")
     cv.markdown("""
     - Microsofte office:("Word,Exel,Power Point")
+    
     - Cartographie 
+    
     -Topographie 
-    - Planification Territoriale 
+    
+    - Planification et Diagnostique Territoriale 
+    
     - Dessin Plan Architecture
+    
     - Collécte données:("Quantitative,Qualitative")
-    - Base de données:
+    
+    - Creation d'une Base de donnée
+    
     - Aménagement du Territoire
+    
     - Diagnostique Spatiale,Projection spatiale
+    
     - Essaie en  Laboratoire Géotechnique
+    
     - Infographie:("
      Carte visite,invitation,flyers
         ")
     - Numérisation 
+    
     - Programmation("Anacondant Python Jupterlab streamlit
     """)
 
