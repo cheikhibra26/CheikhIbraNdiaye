@@ -37,7 +37,7 @@ cv. write ("Attestation en Intélligence Artificielle  Pour Tous")
 cv.write (" FORCE-N ")
 cv. write (" Attestation en Traitement de Donnée")
 cv.write (" FORCE-N")
-cv.write (" Attestation du Projet de Formation sur la Valorisation des Ressources et Innovation Exploitation Economique du Sénégal ("PFVRIEES") 
+cv.write (" Attéstation du Projet de Formation sur la Valorisation des Ressources et Innovation Exploitation Economique du Sénégal ") 
 cv.write ("UNCHK")
 
 cv.title ("COMPETENCES")
