@@ -45,7 +45,7 @@ cv.write ("UNCHK")
 with cv.sidebar:
    
     
-    cv.title("Ingénieur Aménagiste/Téchnicien en Géomatique")  
+    cv.title("INGENIEUR AMENAGISTE/TECHNICIEN  GEOMATIQUE")  
     
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
     
@@ -61,13 +61,13 @@ with cv.sidebar:
     
     - Cartographie 
     
-    -Topographie 
+    - Topographie 
     
     - Planification et Diagnostique Territoriale 
     
     - Déssin Plan Architecture
           
-      - Collécte données 
+    - Collécte données 
     
     - Creation d'une Base de donnée
     
