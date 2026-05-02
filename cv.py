@@ -97,6 +97,6 @@ with cv.sidebar:
     
     - Programmation("""
        - Anacondant
-       -Python 
-       -streamlit
-    """)
+       - Python 
+       - streamlit
+        """)
