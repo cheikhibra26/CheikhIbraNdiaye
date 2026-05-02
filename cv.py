@@ -83,7 +83,8 @@ with cv.sidebar:
     
     - Aménagement du Territoire
     
-    - Diagnostique Spatiale,Projection spatiale
+    - Diagnostique Spatiale
+     -Projection spatiale
     
     - Essaie en  Laboratoire Géotechnique
     
