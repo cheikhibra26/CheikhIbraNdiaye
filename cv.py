@@ -95,6 +95,4 @@ with cv.sidebar:
          -flyers
         """)
     - Numérisation 
-    - Programmation:("""
-       - Python 
-       - streamlit""")
+    - Programmation
