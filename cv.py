@@ -96,7 +96,7 @@ with cv.sidebar:
     - Numérisation 
     
     - Programmation("""
-     - Anacondant
-     -Python 
-     -streamlit
+       - Anacondant
+       -Python 
+       -streamlit
     """)
