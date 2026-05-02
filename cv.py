@@ -2,6 +2,7 @@ import streamlit as cv
 # configuration de la page
 cv .set_page_config(page_title="cv - CHEIKH IBRA NDIAYE", page_icon="photo.pjg",layout= "centered")#
 # titre
+cv.title("CHEIKH IBRA NDIAYE")
 
 cv. write ("Ingénieur en  aménagemnagement et gestion urbaine en Afrique doté d'une compétence de planification du territoire,aménagement et diagnostique du territoire .En plus,je suis en téchnicien supérieur en géomatique avec la maitrise des outils d'information géographie (SIG),cartographie,télédection,Pilote drone,Topographie. Je suis certifié sur la  collect de données quantitative et qualitative au niveau de l'ANSD. A-cela, s'ajoute mes compétences en labaratoir géotechnique  ")
 
@@ -42,9 +43,9 @@ cv.write (" Attéstation du Projet de Formation sur la Valorisation des Ressourc
 cv.write ("UNCHK")
 
 with cv.sidebar:
-    cv.title("CHEIKH IBRA NDIAYE")   
+   
     
-    cv.write("Ingénieur Aménagiste/Téchnicien en Géomatique")  
+    cv.title("Ingénieur Aménagiste/Téchnicien en Géomatique")  
     
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
     
@@ -74,12 +75,13 @@ with cv.sidebar:
     
     - Essaie en  Laboratoire Géotechnique
     
-    - Infographie:("
-     Carte visite,invitation,flyers
-        ")
+    - Infographie:("""
+         -Carte visite,invitation,flyers
+        """)
     - Numérisation 
     
-    - Programmation("Anacondant Python Jupterlab streamlit
+    - Programmation("""
+    Anacondant Python Jupterlab streamlit
     """)
 
 
