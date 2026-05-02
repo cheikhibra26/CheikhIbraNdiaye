@@ -94,8 +94,8 @@ with cv.sidebar:
          -flyers
         """)
     - Numérisation 
-    - Programmation:("""
+    - Programmation:("
        - Anacondant
        - Python 
        - streamlit
-         """)
+         ")
