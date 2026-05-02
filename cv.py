@@ -98,4 +98,4 @@ with cv.sidebar:
     - Programmation:("""
        - Python 
        - streamlit
-""")
+      """)
