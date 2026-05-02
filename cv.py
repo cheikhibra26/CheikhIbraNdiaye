@@ -97,5 +97,4 @@ with cv.sidebar:
     - Numérisation 
     - Programmation:("""
        - Python 
-       - streamlit
-      """)
+       - streamlit""")
