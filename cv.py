@@ -75,7 +75,7 @@ with cv.sidebar:
           - Autocad
              """)
     
-    - Collécte données:("""
+    - Collécte données ("""
                 -Quantitative
                 -Qualitative
                 """)
@@ -89,7 +89,7 @@ with cv.sidebar:
     
     - Essaie en  Laboratoire Géotechnique
     
-    - Infographie:("""
+    - Infographie("""
             -Carte visite
             -invitation
             -flyers
