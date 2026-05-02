@@ -58,7 +58,8 @@ with cv.sidebar:
     - Microsofte office("""
                 -Word
                - Exel
-               - Power Point")
+               - Power Point
+                """)
     
     - Cartographie ("""
                 -QGIS
