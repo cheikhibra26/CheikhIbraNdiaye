@@ -55,17 +55,29 @@ with cv.sidebar:
     cv.title ("COMPETENCES")
     
     cv.markdown("""
-    - Microsofte office:("Word,Exel,Power Point")
+    - Microsofte office("""
+                -Word
+               - Exel
+               - Power Point")
     
-    - Cartographie 
+    - Cartographie ("""
+                -QGIS
+                -ARCGIS
+                """)
     
     -Topographie 
     
     - Planification et Diagnostique Territoriale 
     
-    - Dessin Plan Architecture
+    - Dessin Plan Architecture("""
+                -Autocad
+                -Realisation 3D
+                """)
     
-    - Collécte données:("Quantitative,Qualitative")
+    - Collécte données:("""
+                -Quantitative
+                -Qualitative
+                """)
     
     - Creation d'une Base de donnée
     
@@ -76,10 +88,14 @@ with cv.sidebar:
     - Essaie en  Laboratoire Géotechnique
     
     - Infographie:("""
-         -Carte visite,invitation,flyers
+         -Carte visite
+         -invitation
+         -flyers
         """)
     - Numérisation 
     
     - Programmation("""
-    Anacondant Python Jupterlab streamlit
+     - Anacondant
+     -Python 
+     -streamlit
     """)
