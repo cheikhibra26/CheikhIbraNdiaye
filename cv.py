@@ -52,8 +52,9 @@ with cv.sidebar:
     cv.write("Adresse:Dakar/Sénégal")
     
     cv.write("Situation Matrimonial:Cclibataire sans enfant")
+   
     cv.title ("COMPETENCES")
-    
+   
     cv.markdown("""
     - Microsofte office("""
                 -Word
