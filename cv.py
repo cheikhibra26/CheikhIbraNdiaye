@@ -66,9 +66,8 @@ with cv.sidebar:
     - Planification et Diagnostique Territoriale 
     
     - Déssin Plan Architecture
-          - 
-    
-    - Collécte données 
+          
+      - Collécte données 
     
     - Creation d'une Base de donnée
     
@@ -86,5 +85,6 @@ with cv.sidebar:
     - Programmation
     
     - Télédectection
+    """)
     
     
