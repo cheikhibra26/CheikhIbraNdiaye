@@ -5,7 +5,7 @@ cv .set_page_config(page_title="cv - CHEIKH IBRA NDIAYE", page_icon="photo.pjg",
 
 cv. write ("Ingénieur en  aménagemnagement et gestion urbaine en Afrique doté d'une compétence de planification du territoire,aménagement et diagnostique du territoire .En plus,je suis en téchnicien supérieur en géomatique avec la maitrise des outils d'information géographie (SIG),cartographie,télédection,Pilote drone,Topographie. Je suis certifié sur la  collect de données quantitative et qualitative au niveau de l'ANSD. A-cela, s'ajoute mes compétences en labaratoir géotechnique  ")
 
-cv.title("Parcours")
+cv.title("PARCOURS")
 
 cv.write("Master 2 en Aménagement et Gestion Urbaine en Afrique")
 cv. write ("Université  Cheikh Anta Diop de Dakar ")
@@ -20,10 +20,10 @@ cv.write("Baccalauriat en Science Humaine et Social ")
 cv. write ("Université Cheikh Anta Diop de Dakar ")
 cv.write ("Année:2020")
 
-cv.title ("Certification")
+cv.title ("CERTIFICATION")
 
-cv.hider (" Attestation en Laboratoir Géotechnique ")
-cv. subhider ("Centre de Formation Professionnel des Travaux Public ")
+cv.write(" Attestation en Laboratoir Géotechnique ")
+cv. write("Centre de Formation Professionnel des Travaux Public ")
 
 cv.write("Attestation en Téchnologie Immersive VR/AR/MR ")
 cv. write ("CURI")
@@ -45,10 +45,14 @@ with cv.sidebar:
     cv.title("CHEIKH IBRA NDIAYE")   
     
     cv.write("Ingénieur Aménagiste/Téchnicien en Géomatique")  
+    
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
+    
     cv.write("Adresse:Dakar/Sénégal")
+    
     cv.write("Situation Matrimonial:Célibataire sans enfant")
     cv.title ("COMPETENCES")
+    
     cv.markdown("""
     - Microsofte office:("Word,Exel,Power Point")
     
