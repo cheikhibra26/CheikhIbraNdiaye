@@ -51,7 +51,7 @@ with cv.sidebar:
     
     cv.write("Adresse:Dakar/Sénégal")
     
-    cv.write("Situation Matrimonial:Célibataire sans enfant")
+    cv.write("Situation Matrimonial:Cclibataire sans enfant")
     cv.title ("COMPETENCES")
     
     cv.markdown("""
@@ -70,10 +70,10 @@ with cv.sidebar:
     
     - Planification et Diagnostique Territoriale 
     
-    - Dessin Plan Architecture("""
+    - Déssin Plan Architecture("""
           - Autocad
-          - Realisation 3D
-                """)
+          - Réalisation 3D
+             """)
     
     - Collécte données:("""
                 -Quantitative
