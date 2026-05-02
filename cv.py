@@ -45,9 +45,7 @@ cv.write ("UNCHK")
 with cv.sidebar:
    
     
-    cv.title("INGENIEUR AMENAGISTE
-    TECHNICIEN  GEOMATIQUE
-    ")  
+    cv.title("INGENIEUR AMENAGISTE /TECHNICIEN  GEOMATIQUE")  
     
     cv.write("Email:wwwcheikhibrandiaye@gmail.com")
     
