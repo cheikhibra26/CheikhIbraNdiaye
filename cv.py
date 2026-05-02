@@ -83,9 +83,3 @@ with cv.sidebar:
     - Programmation("""
     Anacondant Python Jupterlab streamlit
     """)
-
-
-
-
-
-
