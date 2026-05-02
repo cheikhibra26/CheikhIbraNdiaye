@@ -22,8 +22,9 @@ cv.write ("Année:2020")
 
 cv.title ("Certification")
 
-cv.write(" Attestation en Laboratoir Géotechnique ")
-cv. write ("Centre de Formation Professionnel des Travaux Public ")
+cv.hider (" Attestation en Laboratoir Géotechnique ")
+cv. subhider ("Centre de Formation Professionnel des Travaux Public ")
+
 cv.write("Attestation en Téchnologie Immersive VR/AR/MR ")
 cv. write ("CURI")
 
