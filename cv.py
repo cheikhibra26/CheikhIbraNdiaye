@@ -71,8 +71,8 @@ with cv.sidebar:
     - Planification et Diagnostique Territoriale 
     
     - Dessin Plan Architecture("""
-                -Autocad
-                -Realisation 3D
+          - Autocad
+          - Realisation 3D
                 """)
     
     - Collécte données:("""
