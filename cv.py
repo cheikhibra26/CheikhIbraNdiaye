@@ -72,7 +72,6 @@ with cv.sidebar:
     
     - Déssin Plan Architecture("""
           - Autocad
-          - Réalisation 3D
              """)
     
     - Collécte données:("""
