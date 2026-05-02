@@ -90,9 +90,9 @@ with cv.sidebar:
     - Essaie en  Laboratoire Géotechnique
     
     - Infographie:("""
-         -Carte visite
-         -invitation
-         -flyers
+            -Carte visite
+            -invitation
+            -flyers
         """)
     - Numérisation 
     - Programmation
